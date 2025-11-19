@@ -53,7 +53,7 @@ public class PalindromeDeque {
 }
 ```
 ## OUTPUT
-<img width="951" height="84" alt="image" src="https://github.com/user-attachments/assets/f2b651f4-310f-47eb-90dc-7394b64e0602" />
+<img width="459" height="252" alt="image" src="https://github.com/user-attachments/assets/e038d3e3-303b-4f2c-8b5a-87ee42c3172c" />
 
 ## RESULT
 The program successfully removes all non-alphanumeric characters, converts the text to lowercase, and uses a deque to efficiently compare characters from both ends. Hence, it determines whether the string is a palindrome.
