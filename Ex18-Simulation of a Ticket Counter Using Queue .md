@@ -84,7 +84,7 @@ public class TicketCounter {
 }
 ```
 ## OUTPUT
-<img width="950" height="125" alt="image" src="https://github.com/user-attachments/assets/9d85a3e2-357d-4d62-ba4b-0241b85d7cc3" />
+<img width="1245" height="842" alt="image" src="https://github.com/user-attachments/assets/1e3f40a6-7f61-4ba7-85b7-34445df03ea7" />
 
 ## RESULT
 Thus, the program successfully simulates a ticket counter queue where customers are served in FIFO order using a linked list-based queue implementation.
