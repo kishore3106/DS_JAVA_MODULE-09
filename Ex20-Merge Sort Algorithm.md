@@ -73,7 +73,7 @@ public class MergeSort {
 }
 ```
 ## OUTPUT
-<img width="940" height="145" alt="image" src="https://github.com/user-attachments/assets/0b994f37-8350-4b21-9b9d-f17f695ac98e" />
+<img width="620" height="297" alt="image" src="https://github.com/user-attachments/assets/5fc90908-90ae-4e4d-9ab6-e2c41a45e87a" />
 
 ## RESULT
 The program has been successfully implemented and executed.
